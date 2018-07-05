@@ -1,0 +1,7 @@
+echo "# OpenSource_Puppet" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:ajitkoenig/OpenSource_Puppet.git
+git push -u origin master
+

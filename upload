@@ -1,0 +1,2 @@
+git remote add origin git@github.com:ajitkoenig/OpenSource_Puppet.git
+git push -u origin master
